@@ -1,27 +1,53 @@
 #EXTM3U
-#EXTINF:0,Một Bước Yêu, Vạn Dặm Đau (Lyrics Video) - Mr. Siro,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=EYJimpsoE3g
-ERIK - CHẠM ĐÁY NỖI ĐAU M/V (ft. MR.SIRO),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=8BAdhoeabUMh
-#EXTINF:0,KHÓC CÙNG EM | Mr. Siro x Gray x Wind (Official Music Video),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=rS_Lkxtkc1c
-Gương Mặt Lạ Lẫm - Mr Siro,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=YGejBavt76Y
-#EXTINF:0,Hoa Nở Không Màu | Hoài Lâm | Acoustic Version,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=y_6aSG2yfe8
-QUÂN A.P | BÔNG HOA ĐẸP NHẤT | OFFICIAL MUSIC VIDEO,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=fTXd-DpN3AI
-#EXTINF:0,[MR.SIRO VERSION] Đừng Lo Anh Đợi Mà,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=BnWiFq0AxQc
-Lắng Nghe Nước Mắt - Mr. Siro (Lyrics Video),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=agPPbdz-l7g
-#EXTINF:0,MR. SIRO - MASHUP 5 HIT SONGS in 2017,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=EC3mFL0STO0
-Tự Lau Nước Mắt - Mr Siro (Official Lyrics Video),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=jywZFA3xL-I
-#EXTINF:0,[MR.SIRO VERSION] Yêu Người Không Thể Yêu,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=UmYicsPa1BM
-Bức Tranh Từ Nước Mắt - Mr. Siro [Official MV HD 1080p],https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=qAHxvhGk_mQ
-#EXTINF:0,CÀNG NÍU GIỮ CÀNG DỄ MẤT - MR. SIRO (Official MV),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=aOXvyd9v1cg
-Dưới Những Cơn Mưa - Mr.Siro (Lyrics Video),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=TfDHpsZQYeE
-#EXTINF:0,ERIK - 'Em Không Sai, Chúng Ta Sai' (Official MV),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=iwGuiSnr2Qc
-HẾT THƯƠNG CẠN NHỚ - ĐỨC PHÚC | OFFICIAL MUSIC VIDEO,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=DZDYZ9nRHfU
-#EXTINF:0,Đã Từng Vô Giá - Mr. Siro (Official Lyrics Video),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=BonY1mVb0Qc
-Không Thể Cùng Nhau Suốt Kiếp | Mr.Siro | Piano Version,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=c-wLsZJ145o
-#EXTINF:0,Cô Đơn Không Muốn Về Nhà (Lyrics Video) - Mr. Siro | Audio,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=3iAzrwnkiuM
-Day Dứt Nỗi Đau - Mr. Siro (Lyrics Video),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=OVDg8CQlBBA
-#EXTINF:0,Tìm Được Nhau Khó Thế Nào - Mr. Siro [Official MV HD],https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=oPLxur8i0vU
-[MR.SIRO VERSION] Tình Yêu Đẹp Nhất,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=CoMOJPOvkEg
-#EXTINF:0,Vô Hình Trong Tim Em - Mr. Siro [Video Lyric HD],https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=UrBa0cm97cc
-ĐAU ĐỂ TRƯỞNG THÀNH | ONLYC | OFFICIAL MV,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=eoJecvGMR6E
-#EXTINF:0,BỎ LỠ MỘT NGƯỜI | LÊ BẢO BÌNH | OFFICIAL MUSIC VIDEO,https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=LdV-h3t_Y40
-ERIK - ‘Có Tất Cả Nhưng Thiếu Anh’ (Official MV),https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=LSjFMH1tsFc
+#EXTINF:0,Канал 1
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=8BAdhoeabUM
+#EXTINF:0,Канал 2
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=EYJimpsoE3g
+#EXTINF:0,Канал 3
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=YGejBavt76Y
+#EXTINF:0,Канал 4
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=rS_Lkxtkc1c
+#EXTINF:0,Канал 5
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=EC3mFL0STO0
+#EXTINF:0,Канал 6
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=jywZFA3xL-I
+#EXTINF:0,Канал 7
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=fTXd-DpN3AI
+#EXTINF:0,Канал 8
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=agPPbdz-l7g
+#EXTINF:0,Канал 9
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=BnWiFq0AxQc
+#EXTINF:0,Канал 10
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=qAHxvhGk_mQ
+#EXTINF:0,Канал 11
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=UmYicsPa1BM
+#EXTINF:0,Канал 12
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=TfDHpsZQYeE
+#EXTINF:0,Канал 13
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=aOXvyd9v1cg
+#EXTINF:0,Канал 14
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=iwGuiSnr2Qc
+#EXTINF:0,Канал 15
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=c-wLsZJ145o
+#EXTINF:0,Канал 16
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=BonY1mVb0Qc
+#EXTINF:0,Канал 17
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=y_6aSG2yfe8
+#EXTINF:0,Канал 18
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=3iAzrwnkiuM
+#EXTINF:0,Канал 19
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=oPLxur8i0vU
+#EXTINF:0,Канал 20
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=OVDg8CQlBBA
+#EXTINF:0,Канал 21
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=CoMOJPOvkEg
+#EXTINF:0,Канал 22
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=DZDYZ9nRHfU
+#EXTINF:0,Канал 23
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=UrBa0cm97cc
+#EXTINF:0,Канал 24
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=LdV-h3t_Y40
+#EXTINF:0,Канал 25
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=LSjFMH1tsFc
+#EXTINF:0,Канал 26
+https://ytdl22.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=4LVDZhKaR2o
